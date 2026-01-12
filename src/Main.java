@@ -9,7 +9,7 @@ public class Main {
     }
 
     // search the target and return true or fasle
-    static boolean linearSearch3(int[] arr, int target) { // we can change here char type like (boolean, int)
+    static boolean linearSearch3(int[] arr, int target) { // we can change here  datatype like (boolean, int)
         if (arr.length == 0) {
             return false;
         }
