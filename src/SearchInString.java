@@ -19,7 +19,7 @@ public class SearchInString {
         }
         return false;
     }
-
+//
 
     static boolean search(String str, char target) {
         if(str.length() == 0) {
